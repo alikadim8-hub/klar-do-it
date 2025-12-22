@@ -28,7 +28,7 @@ Klar do it does not collect, track, or share any personal data.
 
 ## 📬 Support
 If you have questions or feedback, contact:
-**Email:** support@klardoit.app *(يمكن تغييره لاحقًا)*
+**Email:** support@klardoit.app 
 
 ---
 
