@@ -17,4 +17,4 @@ If this privacy policy changes, it will be updated on this page.
 
 ## Contact
 If you have any questions about this Privacy Policy, please contact:
-support@klardoit.app
+alikadim8@gmail.com
